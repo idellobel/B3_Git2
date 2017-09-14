@@ -24,5 +24,10 @@ namespace WpfGit2
         {
             InitializeComponent();
         }
+
+        private void btnHallo_Click(object sender, RoutedEventArgs e)
+        {
+            lbHallo.Items.Add("Hallo !");
+        }
     }
 }
