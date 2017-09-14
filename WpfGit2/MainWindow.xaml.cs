@@ -31,6 +31,8 @@ namespace WpfGit2
 
             lbHallo.Items.Add("Bonjour !");
 
+
+            lbHallo.Items.Add("Hello !");
         }
     }
 }
