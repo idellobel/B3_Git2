@@ -28,6 +28,9 @@ namespace WpfGit2
         private void btnHallo_Click(object sender, RoutedEventArgs e)
         {
             lbHallo.Items.Add("Hallo !");
+
+            lbHallo.Items.Add("Bonjour !");
+
         }
     }
 }
